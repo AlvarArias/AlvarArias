@@ -1,6 +1,6 @@
 # Hi, I'm Alvar Arias 👋
 
-iOS Developer & Automation Engineer focused on building clean, testable Swift applications and AI-powered automation tools.
+iOS Developer focused on building clean, testable Swift applications and WatchOS experiences.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvararias/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://alvararias.github.io/)
@@ -14,10 +14,8 @@ iOS Developer & Automation Engineer focused on building clean, testable Swift ap
 - Core Data · AVFoundation · WatchOS
 - XCTest · Swift Testing · XCUITest
 
-**Automation & DevOps**
+**DevOps**
 - GitHub Actions · CI/CD pipelines
-- RobotFramework · MCP (Model Context Protocol)
-- Node.js
 
 **Cloud & Backend**
 - Firebase (Firestore, Cloud Storage, Auth)
@@ -42,12 +40,6 @@ iOS Developer & Automation Engineer focused on building clean, testable Swift ap
 | [MyNeuroButton](https://github.com/AlvarArias/MyNeuroButton) | Customizable neumorphic button component for iOS, macOS and tvOS | SwiftUI · SPM · Cross-platform |
 | [CallDixio](https://github.com/AlvarArias/CallDixio) | Swift package for the Lexin dictionary API (Swedish–Spanish) | Swift · URLSession · Combine · SPM |
 
-### Automation & AI
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [MCPServer01](https://github.com/AlvarArias/MCPServer01) | MCP server base for AI tool integrations | Node.js · MCP Protocol |
-| [bot_roboc](https://github.com/AlvarArias/bot_roboc) | Automation bot built on the Robocorp platform | RobotFramework · Python |
-
 ---
 
 ## GitHub Stats
@@ -59,7 +51,6 @@ iOS Developer & Automation Engineer focused on building clean, testable Swift ap
 
 ## Currently working on
 
-- Expanding MCP tooling for iOS development workflows
 - Adding CI/CD pipelines to all iOS projects
 - WatchOS communication patterns
 
